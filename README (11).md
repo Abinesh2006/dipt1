@@ -31,8 +31,8 @@ Display the original, lower contrast, and higher contrast images.
 Split the image (boy.jpg) into B, G, R components and display the channels
 
 ## Program Developed By:
-- **Name:** AJITH A.
-- **Register Number:** 212224230012.
+- **Name:** ABINESH M
+- **Register Number:** 212224040009.
 
   ### Ex. No. 01
 
