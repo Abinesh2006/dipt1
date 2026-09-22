@@ -270,22 +270,21 @@ plt.axis("off")
 ```
 
 ## Output:
-
-<img width="622" height="452" alt="image" src="https://github.com/user-attachments/assets/10e39126-9516-4583-a8f5-62ce86cd0d6d" />
-<img width="637" height="462" alt="image" src="https://github.com/user-attachments/assets/1ddad60a-f1d9-4b2d-bc08-840e5b5ec06f" />
-<img width="638" height="457" alt="image" src="https://github.com/user-attachments/assets/b83e259c-dd97-4803-b751-2bb90c6d2bf3" />
-<img width="632" height="453" alt="image" src="https://github.com/user-attachments/assets/38b493fe-0198-42b3-8af1-8b5bef967d13" />
-<img width="625" height="452" alt="image" src="https://github.com/user-attachments/assets/07569c56-6b03-4916-8d84-dd5bcba0a147" />
-<img width="643" height="462" alt="image" src="https://github.com/user-attachments/assets/6e3aa45b-a926-4424-a624-a11bcaefb0fb" />
-<img width="622" height="441" alt="image" src="https://github.com/user-attachments/assets/e6f39fa4-8818-43b5-965f-5ee270afc029" />
-<img width="632" height="442" alt="image" src="https://github.com/user-attachments/assets/f7cbc506-675a-4518-805c-8db081f7a1d4" />
-<img width="642" height="460" alt="image" src="https://github.com/user-attachments/assets/faf2d6e3-33a1-4e01-b145-7b63bbdfcd20" />
-<img width="637" height="458" alt="image" src="https://github.com/user-attachments/assets/9dc0bfec-8528-42e0-891d-6415927724c0" />
-<img width="632" height="452" alt="image" src="https://github.com/user-attachments/assets/4a33f4af-4d6a-4b75-b62b-e1c3c7088438" />
-<img width="603" height="497" alt="image" src="https://github.com/user-attachments/assets/acb263f1-e66b-4163-9536-3a96bfb1a00b" />
-<img width="487" height="497" alt="image" src="https://github.com/user-attachments/assets/a5b9db7e-8f2a-4b87-8a46-deb3799137e5" />
-<img width="642" height="452" alt="image" src="https://github.com/user-attachments/assets/e108500f-22ce-4920-97b9-cf731ff5963e" />
-<img width="631" height="450" alt="image" src="https://github.com/user-attachments/assets/9ccc0511-f73f-467e-b9e4-308cf7580e68" />
+<img width="302" height="411" alt="image" src="https://github.com/user-attachments/assets/2de84cce-4629-4906-9227-b0188cf207fc" />
+<img width="302" height="411" alt="image" src="https://github.com/user-attachments/assets/98fd7a0d-3143-43c3-b833-ae62ab501d1d" />
+<img width="302" height="411" alt="image" src="https://github.com/user-attachments/assets/d94a634d-f1a8-4d98-8100-55195b6402db" />
+<img width="302" height="411" alt="image" src="https://github.com/user-attachments/assets/1a2bd1c9-7723-47aa-919c-22a77d7c0ccb" />
+<img width="302" height="411" alt="image" src="https://github.com/user-attachments/assets/5bebaa3e-72cd-406d-82f6-f5cf2c25ed22" />
+<img width="302" height="411" alt="image" src="https://github.com/user-attachments/assets/e990c109-5f05-49f3-a31f-9b5e62f81fd0" />
+<img width="302" height="411" alt="image" src="https://github.com/user-attachments/assets/709318dd-24b5-405c-9a95-ee563910fe4a" />
+<img width="302" height="411" alt="image" src="https://github.com/user-attachments/assets/6d1d6fc8-669e-4865-a991-7144e8ac71e5" />
+<img width="302" height="411" alt="image" src="https://github.com/user-attachments/assets/63d7de3a-4fa8-496c-95e1-ceb5647d9fad" />
+<img width="302" height="411" alt="image" src="https://github.com/user-attachments/assets/1692bc99-1b60-456e-b672-075219c15ecd" />
+<img width="302" height="411" alt="image" src="https://github.com/user-attachments/assets/357cc45e-0327-455e-9d9f-66f11d011d70" />
+<img width="493" height="411" alt="image" src="https://github.com/user-attachments/assets/e2cf218c-8b5c-4ee3-8354-b76cdf11d4b4" />
+<img width="290" height="411" alt="image" src="https://github.com/user-attachments/assets/714283aa-9d75-45e0-951d-3ed8efbbd9dc" />
+<img width="302" height="411" alt="image" src="https://github.com/user-attachments/assets/c3f0091e-ea7d-4f3e-b1fb-77410d1b04a9" />
+<img width="302" height="411" alt="image" src="https://github.com/user-attachments/assets/487c0b18-2afe-4c4f-a4b1-9de5330b7421" />
 
 
 ## Result:
